@@ -1,0 +1,3 @@
+[
+    { "keys": ["alt+o","l"], "command": "create_markdown_link" }
+]
